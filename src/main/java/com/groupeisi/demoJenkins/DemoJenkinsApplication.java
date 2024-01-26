@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class DemoJenkinsApplication {
 
 	public static void main(String[] args) {
-		System.out.println("Bienvenue !!!");
+		System.out.println("Bienvenue mes khos !!!");
 		SpringApplication.run(DemoJenkinsApplication.class, args);
 	}
 
