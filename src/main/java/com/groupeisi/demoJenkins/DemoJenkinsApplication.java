@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class DemoJenkinsApplication {
 
 	public static void main(String[] args) {
-		System.out.println(" Test Dépôt Nexus!!!");
+		System.out.println(" Effectuer une pipeline comportant Nexus!!!");
 		SpringApplication.run(DemoJenkinsApplication.class, args);
 	}
 
