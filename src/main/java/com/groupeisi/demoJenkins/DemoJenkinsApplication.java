@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class DemoJenkinsApplication {
 
 	public static void main(String[] args) {
-		System.out.println(" Nous avons fait notre premiere pipeline avec Sonarqube et Nexus !!!");
+		System.out.println(" Esperons que la pipeline fonctionne !!!");
 		SpringApplication.run(DemoJenkinsApplication.class, args);
 	}
 
