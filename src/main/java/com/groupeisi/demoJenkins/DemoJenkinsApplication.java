@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class DemoJenkinsApplication {
 
 	public static void main(String[] args) {
-		System.out.println(" La pipeline doit fonctionner, merci !!!");
+		System.out.println(" Cette pipeline doit fonctionner !!!");
 		SpringApplication.run(DemoJenkinsApplication.class, args);
 	}
 
