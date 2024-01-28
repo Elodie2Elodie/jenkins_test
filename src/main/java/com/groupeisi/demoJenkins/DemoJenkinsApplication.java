@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class DemoJenkinsApplication {
 
 	public static void main(String[] args) {
-		System.out.println(" Cette pipeline doit fonctionner !!!");
+		System.out.println("Ajout de l'etape Nexus à la pipeline, fonctionne please !!!");
 		SpringApplication.run(DemoJenkinsApplication.class, args);
 	}
 
