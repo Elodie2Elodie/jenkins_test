@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class DemoJenkinsApplication {
 
 	public static void main(String[] args) {
-		System.out.println("Tests pour la vidéo à rendre!!!");
+		System.out.println("Encore un test pour la vidéo à rendre!!!");
 		SpringApplication.run(DemoJenkinsApplication.class, args);
 	}
 
